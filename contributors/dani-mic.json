@@ -1,0 +1,13 @@
+{
+    "name": "Dani",
+    "github": "dani-mic",
+    "avatar": "https://github.com/dani-mic.png",
+    "bio": "I am Daniel",
+    "skills": ["Ts", "React", "Next.js"],
+    "social": {
+      "twitter": "",
+      "linkedin": "",
+      "website": ""
+    }
+  }
+  
