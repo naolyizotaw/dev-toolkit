@@ -1,9 +1,9 @@
 {
-    "name": "Teddy",
+    "name": "Teddy Mckay",
     "github": "teddy125",
     "avatar": "https://github.com/teddy125.png",
     "bio": "Good citizen",
-    "skills": ["Sql", "mongodb"],
+    "skills": ["Sql", "mongodb", "python", "javascript"],
     "social": {
       "twitter": "",
       "linkedin": "",
