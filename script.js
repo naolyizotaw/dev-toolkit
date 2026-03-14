@@ -6,6 +6,7 @@ const contributorFiles = [
   "teddy125.json",
   "dani-mic.json",
   "jo.json",
+  "gerum-berhanu.json"
 ];
 
 async function loadContributor(filename) {
